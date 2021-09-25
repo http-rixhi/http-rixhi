@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, C++, Java, Linux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gamerique](https://github.com/Gamerique)
+- 👨‍💻 All of my projects are available at [github.com/Gamerique/repository](https://github.com/Gamerique?tab=repositories)
 
 - 📫 Reach me at **Rishiraj11a@gmail.com**
 
