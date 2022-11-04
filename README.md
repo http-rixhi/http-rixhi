@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student from India</h3>
 
 # 💫 About Me:
-🌱 I’m currently working on myself<br><br>👨‍💻 All of my projects are available at <a href=github.com/itzz-rr/repository>My Github Repositories</a><br><br>📫 Reach me at Rishiraj11a+github@gmail.com<br><br>⚡ Fun fact When I code, I forgot everything time, hunger, etc
+🌱 I’m currently working on myself<br><br>👨‍💻 All of my projects are available at https://github.com/itzz-rr?tab=repositories<br><br>📫 Reach me at Rishiraj11a+github@gmail.com<br><br>⚡ Fun fact When I code, I forgot everything time, hunger, etc
 
 
 ## 🌐 Socials:
